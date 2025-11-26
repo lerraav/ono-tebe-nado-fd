@@ -26,7 +26,7 @@
     list-style-type: none;
 }
 
-.header__logo-image{
+.header__logo-image {
     width: 135px;
     height: auto;
 }
@@ -34,7 +34,6 @@
 .header__address {
     justify-self: end;    
     max-width: 240px;
-
 }
 
 .header__address-item {
@@ -212,7 +211,7 @@
     
 }
 
-.about__logo{
+.about__logo {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -223,7 +222,7 @@
     background-color: black;
 }
 
-.about__logo-image{
+.about__logo-image {
     width: 148px;
     height: 114px;
 }
